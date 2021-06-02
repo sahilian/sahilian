@@ -32,9 +32,3 @@
 
 ![VisitorCount](https://profile-counter.glitch.me/{sahilian}/count.svg)
 
-*************
-
-From [sahilian](https://github.com/sahilian)
-
-#### Thank You 🙏🏼
-
