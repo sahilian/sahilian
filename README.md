@@ -1,16 +1,13 @@
 ***********************************
-### Namaste 🙏
+# Namaste 🙏
 
-<!--
-**sahilian/sahilian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>About me</b> <br>
-- <img src ="https://s3.amazonaws.com/pix.iemoji.com/images/emoji/apple/ios-12/256/boy-light-skin-tone.png" height= 15px width = 15px> I am Sahil Shrestha.
+- 👦 I am Sahil Shrestha.
 
-- I am from Nepal 🇳🇵  
+- 🗺 I am from Nepal 🇳🇵  
 
 - 🔭 I’m currently Computer Science in in IOST, TU.
 
-- 🌱 I’m interested in web development, graphics designing and mobile app development.
+- 🌱 I’m interested in front-end web development, graphics designing, artificial intelligence, machine learning, data science and mobile app development.
 
 
 
