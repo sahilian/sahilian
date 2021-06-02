@@ -9,7 +9,7 @@
 
 - 🌱 I’m interested in front-end web development, graphics designing, artificial intelligence, machine learning, data science and mobile app development.
 
-# Open Source is the Revolution.
+# Open Source is the Revolution. Knowledge should be free.
 
 
 
