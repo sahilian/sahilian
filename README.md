@@ -14,9 +14,10 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
 
 
+[![Sahil Shrestha's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahilian&show_icons=true&theme=onedark)](https://github.com/sahilian/github-readme-stats)
 
-[![Sahil Shrestha Github Stats](https://github-readme-stats.vercel.app/api?username=sahilian&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/sahilian)
-&nbsp;![Top Langs](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sahilian&layout=compact&theme=radical)
+
+![Top Langs](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sahilian&layout=compact&theme=radical)
 
 <br /> 
 
