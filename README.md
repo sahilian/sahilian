@@ -19,7 +19,7 @@
 [![Sahil Shrestha's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahilian&show_icons=true&theme=onedark)](https://github.com/sahilian/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilian&layout=demo)](https://github.com/sahilian/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilian&layout=demo)](https://github.com/sahilian/github-readme-stats)-->
 
 
 <br /> 
