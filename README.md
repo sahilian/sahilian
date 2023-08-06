@@ -9,14 +9,14 @@
 
 - 🌱 I’m interested in front-end web development, graphics designing, artificial intelligence, machine learning, data science and mobile app development.
 
-# Open Source is the Revolution. Knowledge should be free.
+<!--# Open Source is the Revolution. Knowledge should be free.-->
 
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
 
 
-[![Sahil Shrestha's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahilian&show_icons=true&theme=onedark)](https://github.com/sahilian/github-readme-stats)
+<!--[![Sahil Shrestha's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahilian&show_icons=true&theme=onedark)](https://github.com/sahilian/github-readme-stats)-->
 
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilian&layout=demo)](https://github.com/sahilian/github-readme-stats)-->
