@@ -17,12 +17,7 @@
 </div>
 
 
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Code never lies, comments sometimes do.</h2></summary>
-  </ul>
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=00e0df&center=true&vCenter=true&width=900&height=110&lines=Computer+Enthusiast;Computer+Science+and+Information+Technology+Student)](https://git.io/typing-svg)
 
 
 <!--Intro start-->
