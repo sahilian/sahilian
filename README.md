@@ -28,7 +28,7 @@
 
 - 🗺 I am from Nepal 🇳🇵  
 
-- 🔭 I’m currently studying Computer Science in in IOST, TU.
+- 🔭 I’m currently studying Computer Science in IOST, TU.
 
 - 🌱 I’m interested in front-end web development, graphics designing, artificial intelligence, machine learning, data science and mobile app development.
 
