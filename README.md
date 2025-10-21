@@ -1,16 +1,14 @@
-
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Sahil</h1></summary>
+    <summary><h1 style="display: inline-block">Hey there! 👋 I'm Sahil</h1></summary>
   </ul>
 </div>
 
-
-<!--- snake -->
+<!--snake -->
 <div align="center">
  <picture>
   <source
@@ -28,29 +26,23 @@
 </picture>
 </div>
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=00e0df&center=true&vCenter=true&width=900&height=110&lines=Computer+Enthusiast;Computer+Science+and+Information+Technology+Student)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=00e0df&center=true&vCenter=true&width=900&height=110&lines=Computer+Enthusiast;Computer+Science+Graduate;AI+and+Web+Dev+Enthusiast)](https://git.io/typing-svg)
 
 <!--Intro start-->
 ***********************************
 # Namaste 🙏
 
-- 👦 I am Sahil Shrestha.
+- 👦 **Sahil Shrestha** here, from the beautiful country of **Nepal** 🇳🇵
 
-- 🗺 I am from Nepal 🇳🇵  
+- 🔭 I’ve graduated in **Computer Science** from IOST, TU.
 
-- 🔭 I’m currently studying Computer Science in IOST, TU.
+- 🌱 Passionate about **Front-End Development**, **Graphics Design**, **AI**, **Machine Learning**, **Data Science**, and **Mobile App Development**.
 
-- 🌱 I’m interested in front-end web development, graphics designing, artificial intelligence, machine learning, data science and mobile app development.
+- 📝 I frequently write insightful articles on **[Medium](https://sahilistic.medium.com/)** to share my knowledge with the tech community.
 
-- 📝 I regularly write articles on [Medium](https://sahilistic.medium.com/)
-
-
+- 🧑‍💻 Let's create some cool things together! 💥
 
 <!--Intro end-->
-
-
 
 <!--- stats & Trophy (start) -->
 <p align="center">
@@ -61,7 +53,7 @@
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=sahilian&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sahilian&theme=dark&hide_border=false" /> 
+  <img  title="🔥 Check your GitHub streak stats at git.io/streak-stats" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=sahilian&theme=dark&hide_border=false" /> 
 </td>
 
 <td width="50%" align="center">
@@ -85,11 +77,10 @@
 </p>        
 <!--- stats (end) -->
 
-
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">Technologies I Love to Work With 👨🏻‍💻</h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
@@ -99,12 +90,11 @@
   </a>
 </p>
 
-
 <!-- Connect with me -->
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+    <summary><h2 style="display: inline-block">Let's Connect! 🤝</h2></summary>
   </ul>
 </div>
 
@@ -116,7 +106,6 @@
   
 </p>
 
-
 <!--profile visit count-->
 <div align="center">
   
@@ -127,4 +116,4 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-----------------------------------------------------------------------
+-----------------------------------
