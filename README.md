@@ -75,9 +75,12 @@ I'm always excited to connect with fellow tech enthusiasts. Let's build somethin
 </p>
 
 <!-- Profile Visit Counter -->
-<div align="center">
-  [![](https://visitcount.itsvg.in/api?id=sahilian&icon=3&color=6)](https://visitcount.itsvg.in)
-</div>
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=sahilian&icon=3&color=6" alt="Profile View Counter" />
+  </a>
+</p>
+
 
 <!-- Horizontal Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
